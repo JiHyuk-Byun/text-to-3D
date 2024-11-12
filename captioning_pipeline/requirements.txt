@@ -1,0 +1,9 @@
+qwen-vl-utils
+#transformers==4.38.2
+git+https://github.com/huggingface/transformers
+git+https://github.com/huggingface/accelerate
+jinja2>=3.0
+auto-gptq
+autoawq
+optimum
+flash-attn==2.6.1
